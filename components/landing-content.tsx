@@ -40,7 +40,7 @@ const Testimonials = [
     designation: 'Web Developer and creator of ApexIntel',
     content: (
       <p>
-        The <Highlight>ApexIntel</Highlight> is the best application I ever made
+        The <Highlight>ApexIntel</Highlight> is the best application I ever made.
       </p>
     ),
   },
@@ -51,8 +51,8 @@ const Testimonials = [
     content: (
       <p>
         Super unbeatable good! <Highlight>The generated zebrafish</Highlight>{' '}
-        is even more real than my lab's, I rotate screams, exceptionally good
-        tool, <Highlight>love from China</Highlight>
+        is even more real than my lab&apos;s, I rotate screams, exceptionally good
+        tool, <Highlight>love from China.</Highlight>
       </p>
     ),
   },
