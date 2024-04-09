@@ -4,37 +4,40 @@ This is a ApexIntel, project which is connected to several AI providers such as 
 
 First, open this link which redirect you to the landing page [https://apex-intel.vercel.app/](https://apex-intel.vercel.app/). Then click the "Get Started" button which will redirect you to the SignIn form.
 
-![alt landing page](<Snímek obrazovky 2024-04-08 105315.png>)
-![alt text](<Snímek obrazovky 2024-04-08 105328.png>)
+![alt text](public/screenshots/Landingpage.png)
+![alt text](public/screenshots/Testimonilas01.png)
+![alt text](public/screenshots/Testimonials02.png)
+![alt text](public/screenshots/Testimonials03.png)
 
 After successful login you will be redirected to the Dashboard page where you will find all the sections for generating content.
 
-![alt text](<Snímek obrazovky 2024-04-08 105413.png>) 
-
-![alt text](<Snímek obrazovky 2024-04-08 105430.png>)
-
+![alt text](public/screenshots/darkmode.png)
+![alt text](public/screenshots/lightmode.png)
 
 ## Generating Content
 You can start communicating with the OpenAI gpt-3.5 model about anything you want. 
 
-![alt Without prompt](<Snímek obrazovky 2024-04-08 105457.png>)
-![alt With prompt](<Snímek obrazovky 2024-04-08 105516.png>)
+![alt text](public/screenshots/empty.png)
+![alt text](public/screenshots/conversation.png)
 
 Furthermore, this page can offer you to generate not only one image, but even five images in different qualities. 
 
-![alt photos](<Snímek obrazovky 2024-04-08 105606.png>)
+![alt text](public/screenshots/photos.png)
 
 Generate multi-second videos and music. 
-![alt video](<Snímek obrazovky 2024-04-08 105742.png>)
 
-![alt text](<Snímek obrazovky 2024-04-08 105915.png>)
+![alt text](public/screenshots/video.png)
+![alt text](public/screenshots/music.png)
 
 And the last thing I can offer you is the generation of the code itself in any language. Just write what you want to generate and in what language it should be and within seconds you have your code generated. 
 For example:
 
-![alt text](<Snímek obrazovky 2024-04-08 110454.png>)
+![alt text](public/screenshots/code.png)
 
 When you reach the free generation limit you wont be able to generate more content without buying subscription. You can easily buy it when you click on Upgrade button below Generation limit progress bar.
-![alt text](<Snímek obrazovky 2024-04-08 110506.png>) ![alt text](<Snímek obrazovky 2024-04-08 110514.png>)
 
+![alt text](<public/screenshots/upgrade button.png>)
 
+![alt text](public/screenshots/upgrade.png)
+
+Thank you for using ApexIntel, I hope you like it. If you have any questions or need help, please contact me via crisp support.
