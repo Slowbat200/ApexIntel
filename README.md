@@ -1,3 +1,9 @@
+ATTENTION PLEASE!!
+This project is currently unavailable due to a change of Prisma database provider. 
+I apologize for the inconvenience and thank you for your understanding
+
+
+
 This is a ApexIntel, project which is connected to several AI providers such as OpenAI and models from Replicate. Thanks to these providers, the user can both interact with the AI bot and generate images, short videos, music and code. However, generation is limited to 30 free generations. In order to get unlimited generation, one needs to purchase a premium..
 
 ## Getting Started
